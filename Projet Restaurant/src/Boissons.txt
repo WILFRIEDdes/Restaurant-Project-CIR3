@@ -1,0 +1,5 @@
+limonade:10
+cidre doux:10
+biere sans alcool:10
+jus de fruit:3
+pomme:50

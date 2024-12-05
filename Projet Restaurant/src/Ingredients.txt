@@ -1,0 +1,9 @@
+salade:10
+tomate:10
+oignon:20
+champignon:5
+pain:15
+steack:20
+pate:10
+fromage:15
+chorizo:10
